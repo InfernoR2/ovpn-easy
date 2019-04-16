@@ -387,7 +387,7 @@ nobind
 persist-key
 persist-tun
 remote-cert-tls server
-auth SHA512
+auth SHA1
 cipher AES-256-CBC
 setenv opt block-outside-dns
 key-direction 1
